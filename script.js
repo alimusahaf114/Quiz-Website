@@ -1,7 +1,7 @@
 const quizData = [
     {
-      question: "What is the capital of France?",
-      options: ["Berlin", "Madrid", "Paris", "Lisbon"],
+      question: "What is the capital of Pakistan?",
+      options: ["Karachi", "Lahore", "Inslamabad", "Dengan"],
       answer: 2,
     },
     {
